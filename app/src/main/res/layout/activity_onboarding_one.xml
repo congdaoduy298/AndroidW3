@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        tools:context=".OnboardingOne">
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="310dp"
+            android:layout_height="310dp"
+            android:layout_marginStart="52dp"
+            android:layout_marginTop="86dp"
+            android:src="@drawable/d"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="226dp"
+            android:layout_height="282dp"
+            android:layout_marginStart="94dp"
+            android:layout_marginTop="71.5dp"
+            android:src="@drawable/aa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="66.61dp"
+            android:layout_height="66.61dp"
+            android:src="@drawable/group17726"
+            android:layout_marginStart="261dp"
+            android:layout_marginTop="72dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image4"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="286dp"
+            android:layout_marginTop="269dp"
+            android:src="@drawable/group17744"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image5"
+            android:layout_width="41dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="192dp"
+            android:layout_marginTop="338dp"
+            android:src="@drawable/group17743"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imange6"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="183dp"
+            android:src="@drawable/group17745"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image7"
+            android:layout_width="66.61dp"
+            android:layout_height="66.61dp"
+            android:layout_marginStart="79dp"
+            android:layout_marginTop="331dp"
+            android:src="@drawable/group17742"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image8"
+            android:layout_width="46.92dp"
+            android:layout_height="5dp"
+            android:layout_marginStart="184.08dp"
+            android:layout_marginTop="457dp"
+            android:src="@drawable/group17895"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:id="@+id/text1"
+            android:layout_width="336dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="39dp"
+            android:layout_marginTop="499dp"
+            android:text="Browse your  menu and order directly"
+            android:textSize="36sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/text2"
+            android:layout_width="336dp"
+            android:layout_height="54dp"
+            android:layout_marginStart="39dp"
+            android:layout_marginTop="597dp"
+            android:text="Our app can send you everywhere, even space. For only $2.99 per month"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image9"
+            android:layout_width="77dp"
+            android:layout_height="77dp"
+            android:layout_marginStart="174dp"
+            android:layout_marginTop="665.11dp"
+            android:src="@drawable/group17751"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

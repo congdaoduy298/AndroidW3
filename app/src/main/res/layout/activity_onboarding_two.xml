@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        tools:context=".OnboardingTwo">
+
+        <ImageView
+            android:id="@+id/two1"
+            android:layout_width="310dp"
+            android:layout_height="310dp"
+            android:layout_marginStart="52dp"
+            android:layout_marginTop="86dp"
+            android:src="@drawable/d"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two2"
+            android:layout_width="527.38dp"
+            android:layout_height="349.19dp"
+            android:layout_marginStart="-60dp"
+            android:layout_marginTop="64dp"
+            android:src="@drawable/img3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two3"
+            android:layout_width="66.61dp"
+            android:layout_height="66.61dp"
+            android:src="@drawable/img4"
+            android:layout_marginStart="243dp"
+            android:layout_marginTop="72dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two10"
+            android:layout_width="70dp"
+            android:layout_height="72dp"
+            android:layout_marginStart="276dp"
+            android:layout_marginTop="264dp"
+            android:src="@drawable/union"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="296dp"
+            android:layout_marginTop="280dp"
+            android:src="@drawable/img5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two11"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="189dp"
+            android:layout_marginTop="329dp"
+            android:src="@drawable/union"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two5"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginStart="208dp"
+            android:layout_marginTop="344dp"
+            android:src="@drawable/img6"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two12"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="183dp"
+            android:src="@drawable/union"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two6"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="82dp"
+            android:layout_marginTop="193dp"
+            android:src="@drawable/img7"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two13"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="314dp"
+            android:src="@drawable/union"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two7"
+            android:layout_width="40dp"
+            android:layout_height="39.85dp"
+            android:layout_marginStart="79dp"
+            android:layout_marginTop="331dp"
+            android:src="@drawable/img8"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two8"
+            android:layout_width="46.92dp"
+            android:layout_height="5dp"
+            android:layout_marginStart="184.08dp"
+            android:layout_marginTop="457dp"
+            android:src="@drawable/img9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:id="@+id/chu1"
+            android:layout_width="336dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="39dp"
+            android:layout_marginTop="499dp"
+            android:text="Even to space with us! Together"
+            android:textSize="36sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/chu2"
+            android:layout_width="336dp"
+            android:layout_height="54dp"
+            android:layout_marginStart="39dp"
+            android:layout_marginTop="597dp"
+            android:text="Our app can send you everywhere, even space. For only $2.99 per month"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/two9"
+            android:layout_width="77dp"
+            android:layout_height="77dp"
+            android:layout_marginStart="174dp"
+            android:layout_marginTop="665.11dp"
+            android:src="@drawable/group17751"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

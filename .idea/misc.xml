@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/avatar.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_bt2.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_button.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_textfield.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_backgroundprofile.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_brooke_lark_lcz9nxhoslo_unsplash_1.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_ellipse_128.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17863.xml" value="0.25" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17864.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17865.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17955.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18052.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18120.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18121.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_87.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_super_g.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/nut_tron.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_onboarding_one.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_onboarding_two.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_signin.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_verifycode.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_email.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_fullname.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_phone.xml" value="0.358695652173913" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/drawable-v24/buttonskip.xml" value="0.1505" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_three.xml" value="0.2" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_signup.xml" value="0.1334853090172239" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_splash.xml" value="0.1334853090172239" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_verifycode.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_one.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_three.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_two.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_splash.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_verifycode.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/exer-android-ch2k2/login/app/src/main/res/layout/activity_welcome.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_onboarding_one.xml" value="0.1" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_onboarding_three.xml" value="0.1" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_onboarding_two.xml" value="0.1" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_profile.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_signin.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_signup.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_verifycode.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Victus/StudioProjects/trashcode/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
